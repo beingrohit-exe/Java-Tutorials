@@ -27,6 +27,8 @@ public class day1 {
         float b = 10.50f;
         char d = 'A';
         int e = 50;
+        String name = "Rohit";
+        boolean cond = false;
         Object f = true;
         long g = 5454543434344343434L;
         double h = 10.50d;
